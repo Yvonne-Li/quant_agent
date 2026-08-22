@@ -3,7 +3,20 @@ I am building a **production-style AI Stock Research Agent** as both a useful pe
 
 When helping me with this project, do not optimize only for getting features working. Help me learn and practice **production engineering habits** including Git workflows, Linux, Docker, testing, deployment, CI/CD, debugging, and system design.
 
+# Roadmap
 ## MVP 1 — Production Data Pipeline
+Build a reliable pipeline for collecting and storing market data.
+
+## MVP 2 — AI Research Agent
+Build an evidence-grounded AI agent for stock research.
+
+## MVP 3 — Portfolio Copilot
+Build a personalized portfolio monitoring and research system.
+
+
+
+## MVP 1 — Production Data Pipeline
+
 ### OKR 1: Build a reliable, reproducible stock-data pipeline
 
 - [ ] Support 20+ tickers
